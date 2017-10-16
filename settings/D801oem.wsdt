@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>D801oem/Debug</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>124</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>720</ColumnWidth1><ColumnWidth2>192</ColumnWidth2><ColumnWidth3>48</ColumnWidth3></Build>
+    </Static>
+    <Windows>
+      
+      
+    <Wnd2>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-4749-17723</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>D801oem</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd2><Wnd3>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-21834-18017</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd3></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>D:\D801OEM\main.c</Filename><XPos>0</XPos><YPos>152</YPos><SelStart>4093</SelStart><SelEnd>4093</SelEnd></Tab><ActiveTab>0</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>D:\D801OEM\D801oem.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>192</SelStart><SelEnd>192</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\D801OEM\var.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>168</SelStart><SelEnd>168</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\D801OEM\define.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>558</SelStart><SelEnd>558</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\D801OEM\main.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>296</SelStart><SelEnd>296</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-0138f708><key>iaridepm.enu1</key></Toolbar-0138f708></Sizes></Row0></Top><Left><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>544</Bottom><Right>198</Right><x>-2</x><y>-2</y><xscreen>200</xscreen><yscreen>200</yscreen><sizeHorzCX>195313</sizeHorzCX><sizeHorzCY>281294</sizeHorzCY><sizeVertCX>195313</sizeVertCX><sizeVertCY>767932</sizeVertCY></Rect></Wnd2></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>119</Bottom><Right>1026</Right><x>-2</x><y>-2</y><xscreen>1028</xscreen><yscreen>121</yscreen><sizeHorzCX>1003906</sizeHorzCX><sizeHorzCY>170183</sizeHorzCY><sizeVertCX>195313</sizeVertCX><sizeVertCY>281294</sizeVertCY></Rect></Wnd3></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+
